@@ -1,6 +1,6 @@
 # KPMG_Data_Analytics
 
-This is the repository of Tasks that I completed while I was doing Virtual Internship in KPMG through The Forage.
+This is the repository of Tasks that I completed while I was doing Virtual Internship at KPMG through The Forage.
 
 The Dashboard answers the following Questions - 
 
